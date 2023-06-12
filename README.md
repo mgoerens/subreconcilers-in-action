@@ -1,3 +1,5 @@
+https://cloud.redhat.com/blog/subreconciler-patterns-in-action
+
 # Subreconciler pattern in action
 
 When developing an Operator in Go, structuring our code can become a
